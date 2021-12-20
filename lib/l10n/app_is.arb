@@ -1,0 +1,40 @@
+{
+    "newGame": "Nýr leikur",
+    "hangMan": "Hangman",
+    "information": "Upplýsingar",
+
+    "newGameTitle": "Nýr leikur!",
+
+    "languageSelector": "Tungumál",
+
+    "attemptsSelector": "Tilraunir",
+
+    "wordLengthSelector": "Orðalengd",
+
+    "random": "Handahóf",
+
+    "systemLanguage": "Systemtungumál",
+
+    "newGameButton": "Nýr leikur!",
+
+    "attemptsLeft": "Fjöldi tilrauna eftir: ",
+
+    "makeaNewGuess": "Giskaðu á bókstaf!",
+
+    "restartButton": "Nýr leikur",
+    "defeat": "Tap",
+    "youLost": "Þú tapa'ir, rérra orðið er: ",
+    "victory": "Sigur!",
+    "illegalInput": "Þetta er ekki gildur bókstafur",
+    "alreadyGuessed": "Þú hefur þegar giskað á þennan bókstaf",
+    "configure": "Stillingar",
+    "youGuessedRight": "Þú giskaðir rétt!",
+    "icelandic": "Íslenska",
+    "english": "Enska",
+    "howToPlay": "Leikreglur",
+    "howToStartGame": "Þú byrjar nýjan leik með því að strjúka til hægri. Hér getur þú fínstillt leikreglurnar áður en þú býrð til nýjan leik.",
+    "howToSwitchLanguage": "Í stillingum getur þú breytt um tungumál, íslensku eða ensku.",
+    "rules": "Þú getur giskað á orðið, en færð mínusstig fyrir hvern ranga staf!",
+    "howToWin": "Þú vinnur þegar þú hefur giskað á rétt orð áður en tilraunirnar eru búnar."
+    
+}
